@@ -1,1 +1,3 @@
-# To-Do-List-w8
+To-Do List Web App
+
+This project is a simple To-Do List web application built using HTML, CSS, and JavaScript. The interface features a header with a pink-themed design, including an image and a custom-styled title. Users can input tasks into the form field, which are then displayed in an unordered list format. The CSS styling includes responsive design elements, such as custom fonts and input field effects. Additionally, a hover effect is implemented to strike through tasks when hovered over, providing a visually interactive experience. The project aims to provide a user-friendly interface for managing and organizing tasks effectively.
